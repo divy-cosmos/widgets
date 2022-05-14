@@ -1,0 +1,25 @@
+hr{
+    width: 10px;
+}
+
+body{
+    background-color:rgb(246, 249, 250);
+}
+
+.ui.transparent.inverted.input>input {
+    color: white;
+    
+}
+h3{
+    background-color: aliceblue;
+    color:rgb(139, 92, 92);
+}
+
+.ui.selection.dropdown{
+    margin-top: 20px;
+}
+
+.input {
+    margin-top: 20px;
+}
+
